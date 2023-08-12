@@ -23,8 +23,9 @@ email: zz.lijianyan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   "So we beat on, boats against the current, borne back 
   ceaselessly into the past" - F. Scott Fitzgerald
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: simonliuwaterloo.github.io
+url: https://simonliuwaterloo.github.io
+baseurl: /website_v4/
 github_username: Simonliuwaterloo
 linkedin_username: jianyan-simon-li-uwaterloo
 
